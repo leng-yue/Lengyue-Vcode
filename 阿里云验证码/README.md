@@ -4,10 +4,11 @@
 #### 请勿用于非法用途
 
 目录树
-        
-  阿里云验证码
-  ├─CNN识别服务
-  |   ├─Version_TF Tensorflow版本
-  |   └─Version_exe exe版本
-  ├─class_ali.py 验证码识别类
-  └─core_web.py 主web服务
+
+
+	阿里云验证码
+	├─CNN识别服务
+	|   ├─Version_TF Tensorflow版本
+	|   └─Version_exe exe版本
+	├─class_ali.py 验证码识别类
+	└─core_web.py 主web服务
