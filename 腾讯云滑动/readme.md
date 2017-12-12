@@ -2,7 +2,7 @@
 #### 最后更新 2017/12/12
 #### 请勿用于非法用途
 
-####使用方式:
+#### 使用方式:
 
 	import tencent #导入模块
     aid = "1252020920" #aid 和 asig是必要参数
@@ -10,6 +10,6 @@
     verify_class = tencent.VerifyCode(aid,asig)
     print(verify_class.Verify()) # 请求
 
-####测试结果:
+#### 测试结果:
 ![ScreenHost](https://raw.githubusercontent.com/leng-yue/AliVcode/master/%E8%85%BE%E8%AE%AF%E4%BA%91%E6%BB%91%E5%8A%A8/screenhost.png)
 
