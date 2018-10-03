@@ -15,4 +15,9 @@
 Vaptcha(2018 10 01) (可用 完整JS)  讲解地址  
   **https://lengyue.me/index.php/category/captcha/crack-vaptcha/**  
 
+## 可用的demo
+本项目用于**学习/研究**    
+部分项目内会提供去掉JS的成品  
+JS计算采用 **冷月API**  
+
 
