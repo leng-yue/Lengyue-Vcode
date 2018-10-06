@@ -14,6 +14,11 @@
   **https://lengyue.me/index.php/category/captcha/crack-yidun/**  
 Vaptcha(2018 10 01) (可用 完整JS)  讲解地址  
   **https://lengyue.me/index.php/category/captcha/crack-vaptcha/**  
+## 每周两爆  
+博客文章 **每周两爆**配套资料  
+**https://lengyue.me/index.php/category/每周两爆/**
+目前包括  
+2018-10-06 安居客  
 
 ## 可用的demo
 本项目用于**学习/研究**    
