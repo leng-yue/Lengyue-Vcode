@@ -21,7 +21,7 @@ Geetest 极验 V2 (2018-10-09) (JS未上传) 讲解地址
 **https://lengyue.me/index.php/category/每周两爆/**  
 目前包括  
 2018-10-06 安居客  
-2018-10-09 B站登录 (Geetest-v2)
+2018-10-09 B站登录 (Geetest-v2) (除去Geetest就是个简单的RSA 这个也要我提交代码么... 要的话请提Issue)  
 
 ## 可用的demo
 本项目用于**学习/研究**    
