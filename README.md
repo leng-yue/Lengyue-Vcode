@@ -22,6 +22,7 @@ Geetest 极验 V2 (2018-10-09) (JS未上传) 讲解地址
 目前包括  
 2018-10-06 安居客  
 2018-10-09 B站登录 (Geetest-v2) (除去Geetest就是个简单的RSA 这个也要我提交代码么... 要的话请提Issue)  
+2018-10-10 Transavia 获取一处Cookie的fingerprint  
 
 ## 可用的demo
 本项目用于**学习/研究**    
