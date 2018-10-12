@@ -14,7 +14,7 @@
   **https://lengyue.me/index.php/category/captcha/crack-yidun/**  
 Vaptcha(2018 10 01) (可用 完整JS)  讲解地址  
   **https://lengyue.me/index.php/category/captcha/crack-vaptcha/**  
-Geetest 极验 V2 (2018-10-09) (JS未上传) 讲解地址  
+Geetest 极验 V2 (2018-10-12) (可用 部分JS + 轨迹) 讲解地址  
 **https://lengyue.me/index.php/category/captcha/geetest/**
 ## 每周两爆  
 博客文章 **每周两爆**配套资料  
