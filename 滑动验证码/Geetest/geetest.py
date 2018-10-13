@@ -50,7 +50,7 @@ def crack(gt, challenge, referer):
     # print("Track", track)
     time.sleep(1)
 
-    # 在县执行 看心情关闭 你懂我意思吧
+    # 在线执行 看心情关闭 你懂我意思吧
     ans = requests.post("https://lengyue.me/api/execute.php?type=geetest", data={
         "eval": "get_slide_w('%s', '%s', %i)" % (initData, track, distance)
     })
