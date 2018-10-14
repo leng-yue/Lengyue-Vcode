@@ -36,6 +36,7 @@ class JDSlide:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
                           "Chrome/69.0.3497.81 Safari/537.36"
         }
+        # 获取滑动
         response = session.get(
             "https://iv.jd.com/slide/g.html?appId=1604ebb2287&scene=login&"
             "product=click-bind-suspend&e=%s&callback=jsonp_0682216393529359" % self.__eid
@@ -43,6 +44,7 @@ class JDSlide:
         init_data = json.loads(response.text.replace("jsonp_0682216393529359(", "").replace(")", ""))
         print("初始化数据", init_data)
 
+        # 图像定位
         img_data = base64.b64decode(init_data["bg"])
         current_img = Image.open(io.BytesIO(img_data)).convert("RGB")
         img_hash = calculate_hash(current_img)
