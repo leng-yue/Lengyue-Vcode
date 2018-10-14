@@ -14,8 +14,12 @@
   **https://lengyue.me/index.php/category/captcha/crack-yidun/**  
 Vaptcha(2018 10 01) (可用 完整JS)  讲解地址  
   **https://lengyue.me/index.php/category/captcha/crack-vaptcha/**  
+安居客 (2018-10-06) (可用 伪码) 讲解地址  
+**https://lengyue.me/index.php/2018/10/06/anjuke/**
 Geetest 极验 V2 (2018-10-12) (可用 部分JS + 轨迹 已对接 在线JS执行) 讲解地址  
-**https://lengyue.me/index.php/category/captcha/geetest/**
+**https://lengyue.me/index.php/category/captcha/geetest/**  
+JD 滑动 V2 (2018-10-14) (可用 已对接 在线JS执行) 讲解地址  
+**https://lengyue.me/index.php/2018/10/14/jd-slide/**
 ## 每周两爆  
 博客文章 **每周两爆**配套资料  
 **https://lengyue.me/index.php/category/weekly/**  
