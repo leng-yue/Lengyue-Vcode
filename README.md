@@ -19,15 +19,20 @@ Vaptcha(2018 10 01) (可用 完整JS)  讲解地址
 Geetest 极验 V2 (2018-10-12) (可用 部分JS + 轨迹 已对接 在线JS执行) 讲解地址  
 **https://lengyue.me/index.php/category/captcha/geetest/**  
 JD 滑动 V2 (2018-10-14) (可用 已对接 在线JS执行) 讲解地址  
-**https://lengyue.me/index.php/2018/10/14/jd-slide/**
+**https://lengyue.me/index.php/2018/10/14/jd-slide/**  
 ## 每周两爆  
 博客文章 **每周两爆**配套资料  
 **https://lengyue.me/index.php/category/weekly/**  
 目前包括  
 2018-10-06 安居客  
+**https://lengyue.me/index.php/2018/10/06/anjuke/**  
 2018-10-09 B站登录 (Geetest-v2) (除去Geetest就是个简单的RSA 这个也要我提交代码么... 要的话请提Issue)  
+**https://lengyue.me/index.php/category/captcha/geetest/**  
 2018-10-10 Transavia 获取一处Cookie的fingerprint  
-2018-10-14 JD滑动
+2018-10-14 JD滑动  
+**https://lengyue.me/index.php/2018/10/14/jd-slide/**  
+2018-10-15 七麦参数破解  
+**https://lengyue.me/index.php/2018/10/15/qimai/**  
 
 ## 可用的demo
 本项目用于**学习/研究**    
