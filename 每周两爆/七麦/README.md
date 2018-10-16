@@ -4,7 +4,7 @@
 本demo实现了主题请求流程 已经在线JS接口  
 完整JS代码请参考博客复现  
 分析思路地址  
-**https://lengyue.me/index.php/2018/10/15/qimai/**
+**https://lengyue.me/index.php/2018/10/15/qimai/**  
 2018-10-15 **已验证可用**
 ## 作者信息
 作者 **冷月**  
