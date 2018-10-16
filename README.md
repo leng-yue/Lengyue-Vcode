@@ -18,8 +18,10 @@ Vaptcha(2018 10 01) (可用 完整JS)  讲解地址
 **https://lengyue.me/index.php/2018/10/06/anjuke/**  
 Geetest 极验 V2 (2018-10-12) (可用 部分JS + 轨迹 已对接 在线JS执行) 讲解地址  
 **https://lengyue.me/index.php/category/captcha/geetest/**  
-JD 滑动 V2 (2018-10-14) (可用 已对接 在线JS执行) 讲解地址  
+JD 滑动 (2018-10-14) (可用 已对接 在线JS执行) 讲解地址  
 **https://lengyue.me/index.php/2018/10/14/jd-slide/**  
+数美滑动 fengkongcloud (2018-10-16) (可用 已对接 在线JS执行) 讲解地址  
+**https://lengyue.me/index.php/2018/10/16/shumei/**  
 ## 每周两爆  
 博客文章 **每周两爆**配套资料  
 **https://lengyue.me/index.php/category/weekly/**  
@@ -33,6 +35,8 @@ JD 滑动 V2 (2018-10-14) (可用 已对接 在线JS执行) 讲解地址
 **https://lengyue.me/index.php/2018/10/14/jd-slide/**  
 2018-10-15 七麦参数破解  
 **https://lengyue.me/index.php/2018/10/15/qimai/**  
+2018-10-15 6间房 数美滑动 破解  
+**https://lengyue.me/index.php/2018/10/16/shumei/**  
 
 ## 可用的demo
 本项目用于**学习/研究**    
