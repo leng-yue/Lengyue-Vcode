@@ -37,7 +37,9 @@ JD 滑动 (2018-10-14) (可用 已对接 在线JS执行) 讲解地址
 **https://lengyue.me/index.php/2018/10/15/qimai/**  
 2018-10-15 6间房 数美滑动 破解  
 **https://lengyue.me/index.php/2018/10/16/shumei/**  
-
+## 破解随想
+2018-10-17 加速乐Cookie破解  
+**https://lengyue.me/index.php/2018/10/17/jiasule/**  
 ## 可用的demo
 本项目用于**学习/研究**    
 部分项目内会提供去掉JS的成品  
