@@ -24,6 +24,7 @@ params = {
 url = "/rank/indexPlus/brand_id/0"
 # Lengyue JS Online execute
 js_code = "qimaiEncrypt('%s',%s)" % (url, json.dumps(params))
+print(js_code)
 response = requests.post(
     "https://lengyue.me/api/execute.php?type=qimai",
     data={
