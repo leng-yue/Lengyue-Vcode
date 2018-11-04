@@ -38,6 +38,7 @@ JD 滑动 (2018-10-14) (轨迹失效 JS已发布 请自行修改轨迹) 讲解�
 2018-10-15 6间房 数美滑动 破解  
 **https://lengyue.me/index.php/2018/10/16/shumei/**  
 2018-11-02  www.aqistudy.cn 空气质量查询加密  
+**https://lengyue.me/index.php/2018/11/04/aqistudy/**  
 ## 破解随想
 2018-10-17 加速乐Cookie破解  
 **https://lengyue.me/index.php/2018/10/17/jiasule/**  
