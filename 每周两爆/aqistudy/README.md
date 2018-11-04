@@ -1,8 +1,8 @@
 # 每周两爆 - Aqistudy 空气质量查询
 **请遵守当地法律法规**  
 ## 说明
-页面  
-**https://www.aqistudy.cn/html/city_detail.html**
+页面  **https://www.aqistudy.cn/html/city_detail.html**  
+博客页面  **https://lengyue.me/index.php/2018/11/04/aqistudy/**  
 2018-11-02 **已验证可用**
 ## 作者信息
 作者 **冷月**  
