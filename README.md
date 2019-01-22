@@ -22,6 +22,9 @@ JD 滑动 (2018-10-14) (轨迹失效 JS已发布 请自行修改轨迹) 讲解�
 **https://lengyue.me/index.php/2018/10/14/jd-slide/**  
 数美滑动 fengkongcloud (2018-10-16) (可用 已对接 在线JS执行) 讲解地址  
 **https://lengyue.me/index.php/2018/10/16/shumei/**  
+螺丝帽 (2019-01-22) 纯JS实现 讲解地址  
+**https://lengyue.me/index.php/2019/01/22/luosimao/**  
+
 ## 每周两爆
 博客文章 **每周两爆**  
 配套资料 **目前暂停更新, 没人提需求...**  
